@@ -1,0 +1,6 @@
+C:\Users\sebas\source\repos\IHelloRemotingService\IHelloRemotingService\bin\Debug\IHelloRemotingService.dll
+C:\Users\sebas\source\repos\IHelloRemotingService\IHelloRemotingService\bin\Debug\IHelloRemotingService.pdb
+C:\Users\sebas\source\repos\IHelloRemotingService\IHelloRemotingService\obj\Debug\IHelloRemotingService.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\IHelloRemotingService\IHelloRemotingService\obj\Debug\IHelloRemotingService.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\IHelloRemotingService\IHelloRemotingService\obj\Debug\IHelloRemotingService.dll
+C:\Users\sebas\source\repos\IHelloRemotingService\IHelloRemotingService\obj\Debug\IHelloRemotingService.pdb
